@@ -57,5 +57,28 @@ These cleaning steps directly improved the quality and reliability of all downst
 
 ---
 
-## 📁 Repository Structure
+
+---
+
+## 🚀 How to View the Dashboard
+
+1. Download and open `audio_sales_dashboard.pbix` in **Power BI Desktop (2024)**  
+2. Enable data connections when prompted  
+3. Explore via slicers: Month 
+
+
+---
+
+## 📈 Summary & Synergy
+
+This project demonstrates how effective data cleaning and business visualization can generate actionable insights.  
+By combining **Excel preprocessing** and **Power BI storytelling**, the analysis uncovered synergy between pricing, channel strategy, and brand performance — providing a clear direction for marketing and inventory optimization.
+
+---
+
+👨‍💻 **Created by:** Nikhil  
+🎓 Business Analyst Internship Project — Buyhatke  
+🧰 Tools: Excel | Power BI | DAX | GitHub  
+📅 Completed: November 2025
+
 
